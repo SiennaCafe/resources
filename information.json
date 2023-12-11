@@ -1,0 +1,34 @@
+{
+    "title": "A Place to Relax",
+    "description": "Sienna was opened to create an honest, simple, relaxing and cosy space for the area of Deptford. Nothing fancy, nothing gimmicky... the idea was to just to create .. a lovely cafe. \n\nWe do our best to use locally or UK sourced produce to not only keep our menu tip-top and fresh but also to help the local community and beyond thrive as much as possible. Our coffee is sourced from a variety of global Fair Trade coffee farms and the wine... just a mix of great reds & whites from all corners of our beautiful world. \n\nWe love to integrate community and charity work into the day to day life of Sienna, so please do get in touch if you have any creative ideas! \n\nSee you soon! \n\nEsther",
+    "footer": "©2023 Sienna Cafe",
+    "name": "Greenwich",
+    "address": {
+        "street1": "25 Wharf Street",
+        "street2": "Deptford",
+        "city": "London",
+        "zip": "SE8 3GG"
+    },
+    "phone": "07817 033710",
+    "email": "esowa0706@gmail.com​",
+    "longitude": -0.024166666666666666,
+    "latitude": 51.48527777777778,
+    "openTimes": [
+        {
+            "day": "Monday - Friday",
+            "hours": "8am - 4pm"
+        },
+        {
+            "day": "Saturday",
+            "hours": "9am - 5pm"
+        },
+        {
+            "day": "Sunday",
+            "hours": "Closed"
+        },
+        {
+            "day": "*Late night openings will return Spring 24*",
+            "hours": ""
+        },
+    ]
+}
