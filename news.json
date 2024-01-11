@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "date": "01-07-2023",
+        "expiryDate": null,
+        "title": "Winter Opening Hours",
+        "linkName": null,
+        "linkURL": null,
+        "detail": "Opening times have changed for the Winter. Late night open will return in Spring 2024",
+        "image": "clock.png",
+        "isRead": false
+    },
+    {
+        "id": 2,
+        "date": "01-07-2023",
+        "expiryDate": "31-01-23",
+        "title": "Christmas Opening Hours",
+        "detail": "Opening times for Christmas period. \n\n23/12 - Closed\n24/12 - Closed\n25/12 - Closed",
+        "linkName": "My Site",
+        "linkURL": "https://www.siennacafe.co.uk",
+        "image": "clock.png",
+        "isRead": false
+    },
+]
