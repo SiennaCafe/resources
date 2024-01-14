@@ -21,4 +21,15 @@
         "image": "clock.png",
         "isRead": false
     },
+    {
+        "id": 3,
+        "date": "01-01-2024",
+        "expiryDate": null,
+        "title": "Test",
+        "detail": "Test Details",
+        "linkName": null,
+        "linkURL": null,
+        "image": null,
+        "isRead": false
+    },
 ]
