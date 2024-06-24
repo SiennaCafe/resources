@@ -15,20 +15,20 @@
     "latitude": 51.48527777777778,
     "openTimes": [
         {
-            "day": "Monday to Friday",
+            "day": "Monday to Wednesday",
             "hours": "8am to 4pm"
         },
         {
+            "day": "Thursday and Friday",
+            "hours": "8am to 10pm"
+        },
+        {
             "day": "Saturday",
-            "hours": "9am to 5pm"
+            "hours": "9am to 10pm"
         },
         {
             "day": "Sunday",
             "hours": "Closed"
-        },
-        {
-            "day": "*Late night openings will return Spring 24*",
-            "hours": " "
         },
     ]
 }
