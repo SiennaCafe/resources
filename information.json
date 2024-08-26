@@ -15,11 +15,23 @@
     "latitude": 51.48527777777778,
     "openTimes": [
         {
-            "day": "Monday to Wednesday",
+            "day": "Monday",
             "hours": "8am to 4pm"
         },
         {
-            "day": "Thursday and Friday",
+            "day": "Tuesday",
+            "hours": "8am to 4pm"
+        },
+        {
+            "day": "Wednesday",
+            "hours": "8am to 4pm"
+        },
+        {
+            "day": "Thursday",
+            "hours": "8am to 10pm"
+        },
+        {
+            "day": "Friday",
             "hours": "8am to 10pm"
         },
         {
