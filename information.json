@@ -28,15 +28,15 @@
         },
         {
             "day": "Thursday",
-            "hours": "8am to 10pm"
+            "hours": "8am to 4pm"
         },
         {
             "day": "Friday",
-            "hours": "8am to 10pm"
+            "hours": "8am to 4pm"
         },
         {
             "day": "Saturday",
-            "hours": "9am to 10pm"
+            "hours": "9am to 5pm"
         },
         {
             "day": "Sunday",
